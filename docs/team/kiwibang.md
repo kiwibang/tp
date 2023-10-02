@@ -21,6 +21,11 @@ Given below are my contributions to the project.
 
 * **Documentation**:
     * User Guide:
-        * Added documentation for the features `accepted time formats`.
+        * Added documentation for the features `accepted time formats` via [PR #9](https://github.com/AY2324S1-CS2103T-T11-2/tp/pull/9).
   * Developer Guide:
-      * Added implementation details of the `delete` feature.
+      * Added non-trivial NFRs via [PR #28](https://github.com/AY2324S1-CS2103T-T11-2/tp/pull/28)
+  * README
+    * Created the base version of the README via [PR #27](https://github.com/AY2324S1-CS2103T-T11-2/tp/pull/27) 
+* **Community**:
+  * PRs reviewed of other teams: [CS2103T-W08-1 #42](https://github.com/AY2324S1-CS2103T-W08-1/tp/pull/42)
+  * Forum contributions: [#120](https://github.com/nus-cs2103-AY2324S1/forum/issues/120), [#159](https://github.com/nus-cs2103-AY2324S1/forum/issues/159), [#161](https://github.com/nus-cs2103-AY2324S1/forum/issues/161)
