@@ -275,10 +275,6 @@ Format: `add-i app/APPLICANT_ID jr/JOB_ROLE start/START_DATE_AND_TIME end/END_DA
 to the company in general.
 
 * List of accepted date formats:
-  * Day and time: 
-    * `Tue 1600`
-    * `Tue 4.00pm`
-    * `Tue 4pm`
   * DD/MM/YYYY and time:
     * `16 May 2024 1515`
     * `16 May 2024 3.15pm`
